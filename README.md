@@ -24,3 +24,4 @@ Open the notebook in Google Colab
 Run all cells
 Enter input values if required
 View predicted marks
+![Output](output4.png.jpeg)
